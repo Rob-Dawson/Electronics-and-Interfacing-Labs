@@ -1,3 +1,4 @@
+# Overview of Lab 3
 These are the completed tasks for lab 3. They involve the use of a buzzer, button and potentiometer and introduce the developer to the "tone" method. The aim was to use the potentiometer to alter the frequency of the square wave outputted by the buzzer. 
 
 The circuity includes an external pull up resistor to prevent the debouncing problem.
